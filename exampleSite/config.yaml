@@ -205,7 +205,7 @@ params:
 
   # Education
   education:
-    enable: true
+    enable: false
     # index: true
     items:
       - title: "Master of Business Administration"
@@ -328,6 +328,7 @@ params:
       twitter: https://twitter.com
       instagram: https://instagram.com
       facebook: https://facebook.com
+
 
 
 
