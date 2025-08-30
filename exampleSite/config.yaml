@@ -141,7 +141,7 @@ params:
 
   # Experience
   experience:
-    enable: true
+    enable: false
     items:
       - job: "Senior Software Developer"
         company: "Facebook"
@@ -248,7 +248,7 @@ params:
 
   # Achievements
   achievements:
-    enable: true
+    enable: false
     items:
       - title: Google kickstart runner
         content: I solved all problems with optimal solution.
@@ -328,6 +328,7 @@ params:
       twitter: https://twitter.com
       instagram: https://instagram.com
       facebook: https://facebook.com
+
 
 
 
