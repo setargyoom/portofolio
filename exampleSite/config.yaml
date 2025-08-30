@@ -105,7 +105,7 @@ params:
     content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
     image: /
     button:
-      enable: false
+      enable: true
       name: "Resume"
       url: "#"
     socialLinks:
@@ -327,6 +327,7 @@ params:
       twitter: https://twitter.com
       instagram: https://instagram.com
       facebook: https://facebook.com
+
 
 
 
