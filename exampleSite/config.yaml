@@ -48,7 +48,7 @@ params:
   title: "yourhaf"
   description: Text about my cool site
   # staticPath: ""  # The path to serve the static files from
-  favicon: "/fav.png"
+  favicon: "/no name.jpg"
 
   # Whether to serve bootstrap css and js files from CDN or not. Can be set to true, "css" or "js" to choose between
   # serving both, only the css, or only the js files through the CDN. Any other value will make so that CDN is not used.
@@ -114,9 +114,10 @@ params:
           url: https://example.com
         - icon: fab fa-twitter
           url: https://example.com
-      customIcons:
-        - icon: /fav.png
-          url: "https://example.com"
+        - icon: fab fa-instagram
+          url: https://example.com
+        - icon: fab fa-linkedin
+          url: https://example.com
 
   # About
   about:
@@ -327,6 +328,7 @@ params:
       twitter: https://twitter.com
       instagram: https://instagram.com
       facebook: https://facebook.com
+
 
 
 
